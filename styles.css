@@ -1,0 +1,36 @@
+body{
+    background-color: darkblue;
+}
+h1{
+    color: lightgray;
+    text-align: center;
+}
+.bottle ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.bottle a{
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    color: cyan;
+}
+.bottle a:hover{
+    background-color:darkblue;
+}
+.bottle li{
+    float: left;
+}
+p{
+    background-color: lightgray;
+}
+.bottle a{
+    color: lightgray;
+}
+h2{
+    color: lightgray;
+}
